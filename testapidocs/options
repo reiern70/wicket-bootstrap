@@ -1,26 +1,24 @@
 -classpath
-'/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/target/classes:/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/target/test-classes:/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/target/classes:/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/target/test-classes:/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/samples/target/classes:/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/samples/target/test-classes:/Users/miha/.m2/repository/org/objenesis/objenesis/1.0/objenesis-1.0.jar:/Users/miha/.m2/repository/org/wicketstuff/wicketstuff-annotation/6.0.0/wicketstuff-annotation-6.0.0.jar:/Users/miha/.m2/repository/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.jar:/Users/miha/.m2/repository/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.jar:/Users/miha/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar:/Users/miha/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.9/jackson-core-asl-1.9.9.jar:/Users/miha/.m2/repository/com/asual/lesscss/lesscss-engine/1.3.0/lesscss-engine-1.3.0.jar:/Users/miha/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.9/jackson-mapper-asl-1.9.9.jar:/Users/miha/.m2/repository/com/google/guava/guava/13.0.1/guava-13.0.1.jar:/Users/miha/.m2/repository/ch/qos/logback/logback-classic/1.0.7/logback-classic-1.0.7.jar:/Users/miha/.m2/repository/org/apache/wicket/wicket-extensions/6.3.0/wicket-extensions-6.3.0.jar:/Users/miha/.m2/repository/org/eclipse/jetty/aggregate/jetty-all-server/7.6.5.v20120716/jetty-all-server-7.6.5.v20120716.jar:/Users/miha/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/miha/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/miha/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar:/Users/miha/.m2/repository/org/eclipse/jetty/orbit/javax.mail.glassfish/1.4.1.v201005082020/javax.mail.glassfish-1.4.1.v201005082020.jar:/Users/miha/.m2/repository/org/apache/wicket/wicket-request/6.3.0/wicket-request-6.3.0.jar:/Users/miha/.m2/repository/org/eclipse/jetty/orbit/javax.security.auth.message/1.0.0.v201108011116/javax.security.auth.message-1.0.0.v201108011116.jar:/Users/miha/.m2/repository/org/eclipse/jetty/orbit/javax.activation/1.1.0.v201105071233/javax.activation-1.1.0.v201105071233.jar:/Users/miha/.m2/repository/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7.jar:/Users/miha/.m2/repository/org/eclipse/jetty/orbit/javax.annotation/1.1.0.v201108011116/javax.annotation-1.1.0.v201108011116.jar:/Users/miha/.m2/repository/org/mockito/mockito-core/1.9.5-rc1/mockito-core-1.9.5-rc1.jar:/Users/miha/.m2/repository/org/apache/wicket/wicket-util/6.3.0/wicket-util-6.3.0.jar:/Users/miha/.m2/repository/org/slf4j/slf4j-api/1.7.1/slf4j-api-1.7.1.jar:/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/target/classes:/Users/miha/.m2/repository/org/apache/wicket/wicket-core/6.3.0/wicket-core-6.3.0.jar:/Users/miha/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/2.5.0.v201103041518/javax.servlet-2.5.0.v201103041518.jar:/Users/miha/.m2/repository/joda-time/joda-time/2.1/joda-time-2.1.jar:/Users/miha/.m2/repository/junit/junit-dep/4.10/junit-dep-4.10.jar:/Users/miha/.m2/repository/org/mozilla/rhino/1.7R4/rhino-1.7R4.jar'
+'/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/target/classes:/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/target/test-classes:/Users/miha/.m2/repository/org/objenesis/objenesis/1.0/objenesis-1.0.jar:/Users/miha/.m2/repository/org/mockito/mockito-core/1.9.5-rc1/mockito-core-1.9.5-rc1.jar:/Users/miha/.m2/repository/org/apache/wicket/wicket-util/6.3.0/wicket-util-6.3.0.jar:/Users/miha/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar:/Users/miha/.m2/repository/org/slf4j/slf4j-api/1.7.1/slf4j-api-1.7.1.jar:/Users/miha/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.9/jackson-core-asl-1.9.9.jar:/Users/miha/.m2/repository/org/apache/wicket/wicket-core/6.3.0/wicket-core-6.3.0.jar:/Users/miha/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.9/jackson-mapper-asl-1.9.9.jar:/Users/miha/.m2/repository/com/asual/lesscss/lesscss-engine/1.3.0/lesscss-engine-1.3.0.jar:/Users/miha/.m2/repository/com/google/guava/guava/13.0.1/guava-13.0.1.jar:/Users/miha/.m2/repository/org/apache/wicket/wicket-extensions/6.3.0/wicket-extensions-6.3.0.jar:/Users/miha/.m2/repository/joda-time/joda-time/2.1/joda-time-2.1.jar:/Users/miha/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/miha/.m2/repository/junit/junit-dep/4.10/junit-dep-4.10.jar:/Users/miha/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar:/Users/miha/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/miha/.m2/repository/org/apache/wicket/wicket-request/6.3.0/wicket-request-6.3.0.jar:/Users/miha/.m2/repository/org/mozilla/rhino/1.7R4/rhino-1.7R4.jar'
 -encoding
 'UTF-8'
 -protected
 -sourcepath
-'/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/src/test/java:/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/samples/src/test/java'
+'/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/src/test/java'
 -author
 -bottom
 'Copyright &#169; 2012 <a href="http://agilecoders.de">agilecoders.de</a>. All Rights Reserved.'
 -charset
 'UTF-8'
 -d
-'/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/target/site/testapidocs'
+'/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/target/site/testapidocs'
 -docencoding
 'UTF-8'
 -doctitle
-'bootstrap-parent 0.7.1-SNAPSHOT Test API'
--link
-'../apidocs'
+'bootstrap 0.7.1-SNAPSHOT Test API'
 -linkoffline
-'http://download.oracle.com/javase/6/docs/api' '/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/target/javadoc-bundle-options'
+'http://download.oracle.com/javase/6/docs/api' '/Users/miha/Development/Workspace/projects/wicket-bootstrap/wicket-bootstrap/library/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle
-'bootstrap-parent 0.7.1-SNAPSHOT Test API'
+'bootstrap 0.7.1-SNAPSHOT Test API'
