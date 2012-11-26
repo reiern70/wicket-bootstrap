@@ -1,1 +1,8 @@
+de.agilecoders.wicket.less
+de.agilecoders.wicket.markup.html.bootstrap.behavior
+de.agilecoders.wicket.markup.html.bootstrap.heading
+de.agilecoders.wicket.markup.html.bootstrap.navbar
+de.agilecoders.wicket.markup.html.themes.bootstrap
+de.agilecoders.wicket.markup.html.themes.cerulean
+de.agilecoders.wicket.util
 de.agilecoders.wicket
