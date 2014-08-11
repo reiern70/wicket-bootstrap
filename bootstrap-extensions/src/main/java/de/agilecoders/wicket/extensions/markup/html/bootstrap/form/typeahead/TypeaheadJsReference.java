@@ -34,7 +34,7 @@ public class TypeaheadJsReference extends JavaScriptResourceReference {
 
     @Override
     public List<HeaderItem> getDependencies() {
-        List<HeaderItem> dependencies = new ArrayList<HeaderItem>();
+        List<HeaderItem> dependencies = new ArrayList<>();
 
         dependencies.add(JavaScriptHeaderItem.forReference(Bootstrap.getSettings().getJsResourceReference()));
         return dependencies;
